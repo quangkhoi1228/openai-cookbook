@@ -7,7 +7,7 @@ from openai.embeddings_utils import get_embedding
 import os
 import openai;
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 # embedding model parameters
 embedding_model = "text-embedding-ada-002"

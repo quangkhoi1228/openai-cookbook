@@ -5,7 +5,7 @@ import numpy as np
 import os
 import openai;
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 
 datafile_path = "data/fine_food_reviews_with_embeddings_1k.csv"
